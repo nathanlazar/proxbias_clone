@@ -1,7 +1,5 @@
-# THIS IS A FIXED CLONE
-
-Clone of Recursion pharma repo in order to allow access for Zenodo DOI.
-Please go to the following repo for updates/improvements.
+# THIS IS A STATIC CLONE of the Recursion repo in order to allow access for Zenodo DOI.
+Please go to the following repo for updates/improvements:
 https://github.com/recursionpharma/proxbias/ 
 
 
